@@ -2,7 +2,7 @@
 ## Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki, Katedra Inzynierii Biomedycznej
 # Lab1
 Instrukcja oraz pliki do laboratorium nr 1 z Wprowadzenia do programowania 
-
+Instrukcja krok po kroku znajduje się w pliku wp_lab1.ipynb 
 #### Kompilacja programów w C
 W terminalu należy przejść do katalogu, w którym znajdują się pliki źródłowe programu w C, a następnie użyć polecenia `gcc` do kompilacji.
 Przykładowe polecenie kompilacji:
